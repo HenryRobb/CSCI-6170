@@ -1,8 +1,8 @@
 import json
 
 # 1. Put the name of your broken downloaded notebook here
-input_filename = 'HW5_script_GraduateTask.ipynb' 
-output_filename = 'HW5_repaired_script_GraduateTask.ipynb'
+input_filename = 'HW5_script_Task3.ipynb' 
+output_filename = 'HW5_script_Task3.ipynb'
 
 with open(input_filename, 'r', encoding='utf-8') as f:
     nb = json.load(f)
