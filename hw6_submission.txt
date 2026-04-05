@@ -1,0 +1,4 @@
+https://github.com/HenryRobb/CSCI-6170/blob/main/HW6_review_Task3.pdf
+https://github.com/HenryRobb/CSCI-6170/blob/main/HW6_script_Task1.ipynb
+https://github.com/HenryRobb/CSCI-6170/blob/main/HW6_script_Task2.ipynb
+https://github.com/HenryRobb/CSCI-6170/blob/main/HW6_script_Task3.ipynb
