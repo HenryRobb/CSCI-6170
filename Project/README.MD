@@ -3,4 +3,4 @@ Please note that the weights are too large to upload for github, therefore, YOLO
 best.pt: https://drive.google.com/file/d/1k7BTnv_X1kzm0KU5YkUJpTXikd072ekW/view?usp=sharing
 last.pt: https://drive.google.com/file/d/1xg5_gj_iIutAKbkouafu5Tc2L7dvnqDm/view?usp=sharing
 
-If you dowload them and place them in the weights folder, everything should run well.
+If you download them and place them in the weights folder, everything should run well.
