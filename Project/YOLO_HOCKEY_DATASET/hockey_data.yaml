@@ -1,0 +1,11 @@
+names:
+  0: centerIce
+  1: faceoff
+  2: goal
+  3: goaltender
+  4: player
+  5: puck
+  6: referee
+path: /content/drive/MyDrive/16th grade Academics/A S26/CSCI 6980/YOLO_HOCKEY_DATASET
+train: images/train
+val: images/val
